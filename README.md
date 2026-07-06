@@ -3,19 +3,55 @@
 
 ---
 
-Hi, I'm **Pedro Lucas**.
+# Pedro Lucas
 
-Backend & data developer from Brazil, focused on building reliable APIs and data pipelines with Python.
+Systems Development Analyst with experience in full stack development and database-driven applications.
 
-- Currently working with **FastAPI**, **SQLAlchemy** and **PostgreSQL** on the backend side
-- Building data solutions with **Pandas**, **NumPy** and strong SQL
-- Always looking for opportunities and challenges in **backend** or **data engineering**
+Currently working on the development and maintenance of business systems, APIs, reports and database solutions using Laravel, Vue.js, TypeScript and PostgreSQL.
+
+- Developing and maintaining web applications with Laravel and Vue.js
+- Building APIs, business rules and system integrations
+- Working with SQL, database modeling and query optimization
+- Creating reports, automation tools and data processing solutions with Python
+- Interested in backend development, software architecture and scalable applications
 
 ---
 
-**Languages and Tools:**
+## Tech Stack
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="32"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="32"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="32"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="32"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="32"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="32"/>
+### Backend
+- PHP
+- Laravel
+- Python
+- FastAPI
+- SQLAlchemy
+
+### Frontend
+- Vue.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Database
+- PostgreSQL
+- SQL
+
+### Tools
+- Git
+- Linux
+- REST APIs
+
+---
+
+## Current Focus
+
+- Full Stack Development
+- Laravel & Vue.js
+- Backend Development
+- API Development and Integration
+- Database Performance and Optimization
+- Software Architecture
 
 ---
 
